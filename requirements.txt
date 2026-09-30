@@ -1,6 +1,5 @@
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-jupyter
+scikit-learn == 2.2.1
+numpy == 1.0.1
+matploitlib == 2.0.1
+pandas == 1.1.0
+seaborn == 1.1.1
