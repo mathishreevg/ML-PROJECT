@@ -1,4 +1,4 @@
-Logistic Regression Machine Learning Project
+Logistic Regression Machine Learning Project on Big MNC based company.
 Project Overview
 
 This project demonstrates the implementation of Logistic Regression, a supervised machine learning algorithm used for binary classification problems.
